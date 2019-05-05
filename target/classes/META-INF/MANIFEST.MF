@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: nick
+Build-Jdk: 12
+Implementation-Title: mycontact
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.vmo.mycontact
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/mycontact
+Main-Class: com.vmo.mycontact.MycontactApplication
+Created-By: Maven Integration for Eclipse
+
